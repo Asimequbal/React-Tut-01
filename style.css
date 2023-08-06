@@ -3,6 +3,6 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-#conatainer{color: aquamarine;}
+body {display: flex;justify-content: center;align-items: center;height: 100vh; width: 100%;}
 
- .mk{color: aqua;font-size: larger;}
+
