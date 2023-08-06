@@ -1,0 +1,31 @@
+{
+  "name": "bg-react",
+  "version": "1.0.0",
+  "description": "this is react practice by asim",
+ 
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asimequbal/React-Tut-01.git"
+  },
+  "keywords": [],
+  "author": "asim equbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asimequbal/React-Tut-01/issues"
+  },
+  "homepage": "https://github.com/Asimequbal/React-Tut-01#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist":[
+    "last 2 version"
+  ]
+}
